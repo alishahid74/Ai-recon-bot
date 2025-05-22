@@ -16,7 +16,7 @@ A smart subdomain and endpoint recon tool powered by AI classification. Built fo
 ### On Kali Linux
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-recon-bot.git
+git clone https://github.com/alishahid74/Ai-recon-bot.git
 cd ai-recon-bot
 bash install_ai_recon.sh
 ```
