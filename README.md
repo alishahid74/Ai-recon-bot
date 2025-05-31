@@ -52,7 +52,7 @@ It means your account has run out of free credits or paid quota. To fix this:
 
 ```bash
 source ai_recon_env/bin/activate
-python AI_bot.py
+python AI_Bot.py
 ```
 
 You will be prompted to enter a target domain.
@@ -72,4 +72,4 @@ Python 3.8+ and `go` language installed. Also ensures these tools are in your pa
 
 
 
-Made with ❤️ by Hak
+Made with ❤️ by Al
